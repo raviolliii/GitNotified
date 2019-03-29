@@ -15,7 +15,7 @@ This whole thing relies on multiple moving parts, so make sure you have these fi
 
 ## Installation
 1. Download project
-2. Open your Terminal App and navigate to `GitNotified` directory
+2. Open your Terminal App and navigate to the `GitNotified` directory
 3. Run `bash install_gn.sh`
    1. Enter your github username when prompted
    2. You may need to give permission depending on your terminal settings
